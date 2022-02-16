@@ -1,0 +1,142 @@
+# Take the example of "investigations" - record a question and the path taken
+# to answer that question
+peter_theil:
+  born: 11 October 1967
+  founded:
+    - name: field_link
+    - year: 1998
+  founded:
+    - name: paypal
+    - year: 1998
+  founded:
+    - name: palantir
+    - year: 2004
+  founded:
+    - name: founders_fund
+    - year: 2005
+  alma_mater:
+    - name: stanford
+    - degree: undergraduate
+    - graduation_year: 1989
+  alma_mater:
+    - name: stanford
+    - degree: jd
+    - graduation_year: 1992
+
+max_levchin:
+  born: 11 July 1975
+  alma_mater:
+    - name: university_of_illinois_at_urbana_champagne
+    - degree: undergraduate
+    - graduation_year: 1997
+  founded:
+    - name: field_link
+    - year: 1998
+  founded:
+    - name: paypal
+    - year: 1998
+  founded:
+    - name: slide
+    - year: 2004
+  founded:
+    - name: hvf
+    - year: 2011
+  founded:
+    - name: affirm
+    - year: 2012
+
+elon_musk:
+  born: 28 June 1971
+  alma_mater:
+    - name: university_of_pretoria
+    - degree: undergraduate
+    - enrollment_year: 1988
+    - graduation_year: NULL
+  alma_mater:
+    - name: queens_university
+    - degree: undergraduate
+    - enrollment_year: 1989
+    - graduation_year: NULL
+  alma_mater:
+    - name: university_of_pennsylvania
+    - degree: undergraduate
+    - enrollment_year: 1990
+    - graduation_year: UNKNOWN
+  alma_mater:
+    - name: stanford
+    - degree: phd
+    - enrollment_year: 1995
+    - graduation_year: NULL
+  founded:
+    - name: zip2
+    - year: 1995
+  founded:
+    - name: x_dot_com
+    - year: 1999
+  founded:
+    - name: paypal
+    - year: 2000
+  founded:
+    - name: space_x
+    - year: 2002
+  employee_of:
+    - name: tesla
+    - year: 2004
+  ceo_of:
+    - name: tesla
+    - year: 2008
+  founded:
+    - name: solar_city
+    - year: 2006
+  founded:
+    - name: open_ai
+    - year: 2015
+  founded:
+    - name: neuralink
+    - year: 2016
+  founded:
+    - name: the_boring_company
+    - year: 2016
+
+alex_karp:
+  born: 2 October 1967
+  alma_mater:
+    - name: haverford
+    - degree: undergraduate
+    - graduation_year: 1989
+  alma_mater:
+    - name: stanford
+    - degree: jd
+    - graduation_year: 1992
+  alma_mater:
+    - name: goethe_university
+    - degree: phd
+    - graduation_year: 2002
+  founded:
+    - name: palantir
+    - year: 2004
+
+zip2:
+  acquisition:
+    - acquirer: compaq
+    - value_usd: 307_000_000
+    - year: 1999
+
+paypal:
+  name_changed_from: confinity
+  acquisition:
+    - acquirer: ebay
+    - value_usd: 1_500_000_000
+    - year: 2002
+
+slide:
+  acquisition:
+    - acquirer: google
+    - value_usd: 182_000_000
+    - year: 2010
+
+field_link:
+  name_changed_to: confinity
+
+affirm:
+  spin_out_from: hvf
